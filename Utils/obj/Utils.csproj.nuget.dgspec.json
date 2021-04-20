@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Программирование\\STEP\\IT_STEP\\C# .NET\\Домашние работы\\HW_C# Console\\HomeWork_14 (FT)\\IvanSamolevich_Exam\\Utils\\Utils.csproj": {}
+  },
+  "projects": {
+    "C:\\Программирование\\STEP\\IT_STEP\\C# .NET\\Домашние работы\\HW_C# Console\\HomeWork_14 (FT)\\IvanSamolevich_Exam\\Utils\\Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Программирование\\STEP\\IT_STEP\\C# .NET\\Домашние работы\\HW_C# Console\\HomeWork_14 (FT)\\IvanSamolevich_Exam\\Utils\\Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "C:\\Программирование\\STEP\\IT_STEP\\C# .NET\\Домашние работы\\HW_C# Console\\HomeWork_14 (FT)\\IvanSamolevich_Exam\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "C:\\Программирование\\STEP\\IT_STEP\\C# .NET\\Домашние работы\\HW_C# Console\\HomeWork_14 (FT)\\IvanSamolevich_Exam\\Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

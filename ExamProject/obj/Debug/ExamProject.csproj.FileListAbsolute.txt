@@ -1,0 +1,20 @@
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.exe.config
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.exe
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.pdb
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csprojAssemblyReference.cache
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csproj.CoreCompileInputs.cache
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.exe
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.pdb
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\bin\Debug\Utils.dll
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\bin\Debug\Utils.pdb
+C:\Программирование\C# .NET\Домашние работы\HW_C# Console\FinallyTask\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csproj.CopyComplete
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.exe.config
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.exe
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\bin\Debug\ExamProject.pdb
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\bin\Debug\Utils.dll
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\bin\Debug\Utils.pdb
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csprojAssemblyReference.cache
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csproj.CoreCompileInputs.cache
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.csproj.CopyComplete
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.exe
+C:\Программирование\IT_STEP\C# .NET\Домашние работы\HW_C# Console\HomeWork_14 (FT)\IvanSamolevich_Exam\ExamProject\obj\Debug\ExamProject.pdb
